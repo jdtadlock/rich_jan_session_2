@@ -1,0 +1,49 @@
+/* .row {
+  display: flex !important;
+}
+
+.btn {
+  background: rgb(38, 97, 186);
+  padding: 4px 10px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: .95rem;
+} */
+
+.jd-responsive {
+  max-width: 100%;
+}
+
+.my-image {
+  background-size: cover;
+  background-position: center center;
+  height: 150px;
+}
+
+.project-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, .4);
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  padding: 8px 0;
+  margin-bottom: 0;
+}
+
+/* .my-image {
+  background-size: cover;
+  background-position: center center;
+  height: 150px;
+  width: 100%;
+} */
+
+.project-title {
+  background: #888;
+  color: #fff;
+  padding: 6px 0;
+  margin-top: 10px;
+}
